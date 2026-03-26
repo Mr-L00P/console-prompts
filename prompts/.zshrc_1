@@ -1,3 +1,8 @@
+#
+# .zshrc_1
+# Add this code to your ~/.zshrc if you use zsh
+#
+
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
 HISTSIZE=1000
